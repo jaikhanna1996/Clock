@@ -1,0 +1,26 @@
+FOR HOUR HAND
+
+for hour -> 12 hour = 360 rotation
+1 hour = 30' rotation
+for h hour = 30*h' rotations
+
+
+60 minute = 30' rotation
+1 minute = 1/2' rotation
+for m minutes = m/2' rotations
+
+
+======> for hour ====>  30*h' + m/2' rotations
+
+
+FOR MINUTE HAND
+
+60 min = 360' rotation
+1 min = 6' rotation
+=========>m minutes =====> 6m' rotations
+
+FOR SECOND HAND
+
+60 SEC = 360'  rotation
+1 sec = 6' rotation
+========>s sec ======> 6s' rotation
